@@ -1,1 +1,1 @@
-# strava-stats-frontend
+# Strava Stats Frontend
